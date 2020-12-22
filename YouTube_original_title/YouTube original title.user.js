@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube original title
-// @namespace    http://paaaulz.altervista.org/
+// @namespace    https://github.com/PaaaulZ
 // @version      0.1
 // @description  Restore original titles instead of YouTube's translation.
 // @author       PaaaulZ
