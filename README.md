@@ -12,3 +12,7 @@ Automatically clicks the +50 chest on Twitch
 * Roll20 English Abilities
 
 Roll20 orders skills by the english name but shows them in your language. This will show them in english
+
+* WikiFeet EU Bypass
+
+Allows to normally open image bypassing the popup blocking content for EU citizens
